@@ -8,7 +8,7 @@ function renderLicenseSection(license) { }
 
 const contents = {
     installation: "- [Installation](#Installation)",
-    usage: "- Usage",
+    usage: "- [Usage](#Usage)",
     credits: "- Credits",
     tests: "- Tests",
     questions: "- Questions",
@@ -24,13 +24,16 @@ ${data.description}
 
 ## Table of Contents
 
--[usage](#usage)
+
 ${contents.installation}
 ${contents.usage}
 ${contents.credits}
 ${contents.tests}
 ${contents.questions}
 ${contents.license}
+
+- [tests](#tests)
+- [questions](#questions)
 
 ## Installation
 
