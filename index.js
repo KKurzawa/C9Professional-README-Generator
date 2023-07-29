@@ -1,7 +1,8 @@
 // TODO: Include packages needed for this application
-const packageJson = require('./package.json');
+
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown');
 // const questions = [
 //     'What is your project title?',
 //     'Enter a description for your project.',
@@ -52,21 +53,28 @@ inquirer
         },
     ])
     .then((response) => {
-        let anwsers = response;
-        let elTitle = anwsers.title;
-        let elDescription = anwsers.description;
-        let elInstallation = anwsers.installation;
-        let elUsage = anwsers.usage;
-        let elContributers = anwsers.contributers;
-        let elTutorials = anwsers.tutorials;
-        console.log(elTitle);
-        console.log(elDescription);
-        console.log(elInstallation);
-        console.log(elUsage);
-        console.log(elContributers);
-        console.log(elTutorials);
-        console.log(elTitle);
-    });
+        // let anwsers = response;
+        // let elTitle = anwsers.title;
+        // let elDescription = anwsers.description;
+        // let elInstallation = anwsers.installation;
+        // let elUsage = anwsers.usage;
+        // let elContributers = anwsers.contributers;
+        // let elTutorials = anwsers.tutorials;
+        // // console.log(elTitle);
+        // // console.log(elDescription);
+        // // console.log(elInstallation);
+        // // console.log(elUsage);
+        // // console.log(elContributers);
+        // // console.log(elTutorials);
+        // // console.log(elTitle);
+        // console.log(anwsers);
+        return generateMarkdown(response);
+    })
+    .then((markdown) => {
+        console.log(markdown);
+        fs.writeFileSync('README.md', markdown)
+    })
+
 
 
 
