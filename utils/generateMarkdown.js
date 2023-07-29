@@ -7,7 +7,7 @@ function renderLicenseLink(license) { }
 function renderLicenseSection(license) { }
 
 const contents = {
-    installation: "- Installation",
+    installation: "- [Installation](#Installation)",
     usage: "- Usage",
     credits: "- Credits",
     tests: "- Tests",
@@ -24,6 +24,7 @@ ${data.description}
 
 ## Table of Contents
 
+-[usage](#usage)
 ${contents.installation}
 ${contents.usage}
 ${contents.credits}
