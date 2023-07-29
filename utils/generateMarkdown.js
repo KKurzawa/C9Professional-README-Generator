@@ -6,6 +6,14 @@ function renderLicenseLink(license) { }
 // If there is no license, return an empty string
 function renderLicenseSection(license) { }
 
+const contents = {
+    installation: "- Installation",
+    usage: "- Usage",
+    credits: "- Credits",
+    tests: "- Tests",
+    questions: "- Questions",
+    license: "- License",
+}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
     return `# ${data.title}
@@ -16,12 +24,12 @@ ${data.description}
 
 ## Table of Contents
 
-- Installation
-- Usage
-- Credits
-- Tests
-- Questions
-- License
+${contents.installation}
+${contents.usage}
+${contents.credits}
+${contents.tests}
+${contents.questions}
+${contents.license}
 
 ## Installation
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-Description
+Blah
 
 ## Table of Contents
 
@@ -15,26 +15,26 @@ Description
 
 ## Installation
 
-Installation.
+Blah
 
 ## Usage
 
-Usage.
+Blah
 
 ## Credits
 
-Contributers.
-Third Pary
-Links
+Blah
+Blah
+Blah
 
 ## Tests
-Instructions
+Blah
 
 ## Questions
-url
-email
+Blah
+Email
 
 ## License
-Boost Software License 1.0
+MIT License
 
    
