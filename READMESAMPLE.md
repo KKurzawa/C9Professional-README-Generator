@@ -1,5 +1,7 @@
 # k
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 f
@@ -25,19 +27,16 @@ f
 ## Credits
 
 f
-f
-f
+fr
+d
 
 ## Tests
-f
+
 
 ## Questions
-f
-f
+d
+d
 
 ## License
 MIT
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
    
