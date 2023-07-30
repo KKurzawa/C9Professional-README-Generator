@@ -1,9 +1,9 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# k
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+# Bob
 
 ## Description
 
-f
+Bob jumps and swims.
 
 ## Table of Contents
 
@@ -17,25 +17,25 @@ f
 
 ## Installation
 
-f
+Eat a bananna.
 
 ## Usage
 
-f
+Bob picks up a banana.
 
 ## Credits
 
-f
-f
-f
+Dylan and Joe.
+Bob.
+Ziggle.
 
 ## Tests
-f
+Make bob jump.
 
 ## Questions
-f
-f
+123
+666Bannana
 
 ## License
-MIT
+BSD 2-Clause "Simplified"
    

@@ -73,17 +73,17 @@ inquirer
             choices: [
                 { name: 'None', value: 'None' },
                 { name: 'MIT', value: 'MIT' },
-                { name: 'Apache License 2.0', value: 'Apache License 2.0' },
-                { name: 'GNU General Public License v3.0', value: 'GNU General Public License v3.0' },
-                { name: 'BSD 2-Clause "Simplified" License', value: 'BSD 2-Clause "Simplified" License' },
-                { name: 'BSD 3-Clause "New" or "Revised" License', value: 'BSD 3-Clause "New" or "Revised" License' },
-                { name: 'Boost Software License 1.0', value: 'Boost Software License 1.0' },
+                { name: 'Apache 2.0', value: 'Apache 2.0' },
+                { name: 'GNU General Public v3.0', value: 'GNU General Public v3.0' },
+                { name: 'BSD 2-Clause "Simplified"', value: 'BSD 2-Clause "Simplified"' },
+                { name: 'BSD 3-Clause "New" or "Revised"', value: 'BSD 3-Clause "New" or "Revised"' },
+                { name: 'Boost Software 1.0', value: 'Boost Software 1.0' },
                 { name: 'Creative Commons Zero v1.0 Universal', value: 'Creative Commons Zero v1.0 Universal' },
-                { name: 'Eclipse Public License 2.0', value: 'Eclipse Public License 2.0' },
-                { name: 'GNU Affero General Public License v3.0', value: 'GNU Affero General Public License v3.0' },
-                { name: 'GNU General Public License v2.0', value: 'GNU General Public License v2.0' },
-                { name: 'GNU Lesser General Public License v2.1', value: 'GNU Lesser General Public License v2.1' },
-                { name: 'Mozilla Public License 2.0', value: 'Mozilla Public License 2.0' },
+                { name: 'Eclipse Public 2.0', value: 'Eclipse Public 2.0' },
+                { name: 'GNU Affero General Public v3.0', value: 'GNU Affero General Public v3.0' },
+                { name: 'GNU General Public v2.0', value: 'GNU General Public v2.0' },
+                { name: 'GNU Lesser General Public v2.1', value: 'GNU Lesser General Public v2.1' },
+                { name: 'Mozilla Public 2.0', value: 'Mozilla Public 2.0' },
                 { name: 'The Unlicense', value: 'The Unlicense' },
             ],
             name: 'license',
@@ -111,6 +111,7 @@ inquirer
     .then((markdown) => {
         // console.log(markdown);
         fs.writeFileSync('READMESAMPLE.md', markdown)
+
     })
 
 
