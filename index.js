@@ -72,7 +72,7 @@ inquirer
             message: 'Select a license.',
             choices: [
                 { name: 'None', value: 'None' },
-                { name: 'MIT License', value: 'MIT License' },
+                { name: 'MIT', value: 'MIT' },
                 { name: 'Apache License 2.0', value: 'Apache License 2.0' },
                 { name: 'GNU General Public License v3.0', value: 'GNU General Public License v3.0' },
                 { name: 'BSD 2-Clause "Simplified" License', value: 'BSD 2-Clause "Simplified" License' },
