@@ -1,19 +1,6 @@
-// TODO: Include packages needed for this application
-
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
-
-// const questions = [
-//     'What is your project title?',
-//     'Enter a description for your project.',
-//     'Enter instructions for installation of your project.',
-//     'Enter instructions and examples of usage of your project.',
-//     'List any contributers to your project with links to there with links to there Github profiles. If none, type n/a.',
-//     'Enter any third-party attributions. If none, type n/a.',
-//     'Enter links to any tutorials used to create this project. If none, type n/a.'
-
-// ];
 
 inquirer
     .prompt([
@@ -91,39 +78,13 @@ inquirer
 
     ])
     .then((response) => {
-        // let anwsers = response;
-        // let elTitle = anwsers.title;
-        // let elDescription = anwsers.description;
-        // let elInstallation = anwsers.installation;
-        // let elUsage = anwsers.usage;
-        // let elContributers = anwsers.contributers;
-        // let elTutorials = anwsers.tutorials;
-        // // console.log(elTitle);
-        // // console.log(elDescription);
-        // // console.log(elInstallation);
-        // // console.log(elUsage);
-        // // console.log(elContributers);
-        // // console.log(elTutorials);
-        // // console.log(elTitle);
-        // console.log(anwsers);
         return generateMarkdown(response);
     })
     .then((markdown) => {
-        // console.log(markdown);
         fs.writeFileSync('READMESAMPLE.md', markdown)
-
     })
 
 
 
 
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-}
-
-// TODO: Create a function to initialize app
-function init() { }
-
-// Function call to initialize app
-// init();
