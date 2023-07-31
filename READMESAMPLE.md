@@ -1,9 +1,9 @@
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-# l
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+# f
 
 ## Description
 
-l
+f
 
 ## Table of Contents
 
@@ -17,32 +17,32 @@ l
 
 ## Installation
 
-l
+f
 
 ## Usage
 
-l
+f
 
 ## Credits
 
-l
+f
 
-l
+f
 
-l
+f
 
 ## Tests
 
-l
+f
 
 ## Questions
 
-l
+f
 
-Email me at l for questions on this project.
+Email me at f for questions on this project.
 
 ## License
 
-GNU General Public v3.0
+BSD 2-Clause "Simplified"
 
    
