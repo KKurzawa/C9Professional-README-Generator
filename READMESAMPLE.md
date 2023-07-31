@@ -21,7 +21,7 @@ Requires the user to node.js installed.
 
 ## Usage
 
-Enter 'node index.js' in your command line and ansewer all questions.
+Enter 'node index.js' in your command line and answer all questions.
 
 ## Credits
 
