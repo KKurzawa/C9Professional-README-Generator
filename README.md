@@ -8,7 +8,7 @@ This project is a command line application that generates a high-quality README 
 
 ## Usage
 
-Enter 'Node index.js' in the appropriate folder of your command line.  Awnswer all the questions prompted and you will recieve a well polished README.md file.  This README file will contain a clickable table of contents that will take you to the clicked topic, a clicklable licensce badge that will show you the requirements of the license, clickable links to collaborators/attribitions, as well as clickable links to the users Github profile and email.  
+Enter 'Node index.js' in the appropriate folder of your command line.  Answer all the questions prompted and you will recieve a well polished README.md file.  This README file will contain a clickable table of contents that will take you to the clicked topic, a clicklable licensce badge that will show you the requirements of the license, clickable links to collaborators/attribitions, as well as clickable links to the users Github profile and email.  
 
 Walkthrough Video: 
 
