@@ -1,9 +1,9 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-# f
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# l
 
 ## Description
 
-f
+l
 
 ## Table of Contents
 
@@ -17,32 +17,32 @@ f
 
 ## Installation
 
-f
+l
 
 ## Usage
 
-f
+l
 
 ## Credits
 
-f
+l
 
-f
+l
 
-f
+l
 
 ## Tests
 
-f
+l
 
 ## Questions
 
-f
+l
 
-Email me at f for questions on this project.
+Email me at l for questions on this project.
 
 ## License
 
-Apache 2.0
+GNU General Public v3.0
 
    
