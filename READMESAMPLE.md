@@ -17,11 +17,11 @@ This project is a command line application that generates a high-quality README 
 
 ## Installation
 
-Requires the user to have node.js installed.
+Requires the user to node.js installed.
 
 ## Usage
 
-Enter 'node index.js' in the appropriate folder of your command line.  Answer all questions prompted.
+Enter 'node index.js' in your command line and ansewer all questions.
 
 ## Credits
 
