@@ -1,4 +1,4 @@
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 # f
 
 ## Description
@@ -43,6 +43,6 @@ Email me at f for questions on this project.
 
 ## License
 
-GNU Affero General Public v3.0
+GNU General Public v2.0
 
    
