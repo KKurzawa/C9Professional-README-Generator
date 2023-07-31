@@ -1,4 +1,4 @@
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 # f
 
 ## Description
@@ -43,6 +43,6 @@ Email me at f for questions on this project.
 
 ## License
 
-GNU General Public v2.0
+GNU Lesser General Public v2.1
 
    
