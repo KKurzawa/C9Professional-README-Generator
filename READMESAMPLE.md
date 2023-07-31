@@ -1,4 +1,4 @@
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 # f
 
 ## Description
@@ -43,6 +43,6 @@ Email me at f for questions on this project.
 
 ## License
 
-Creative Commons Zero v1.0 Universal
+Eclipse Public 2.0
 
    
