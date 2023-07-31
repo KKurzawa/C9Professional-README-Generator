@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a command line application that generates a high-quality README file quickly. Answer all the questions prompted and you will recieve a well polished README.md file.
+This project is a command line application that generates a high-quality README file quickly.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ This project is a command line application that generates a high-quality README 
 
 ## Installation
 
-Enter 'Node index.js
+Requires the user to have node.js installed.
 
 ## Usage
 
-Use this project to generate your README file quickly.
+Enter 'Node index.js' in the appropriate folder of your command line.  Answer all the questions prompted and you will recieve a well polished README.md file.
 
 ## Credits
 
