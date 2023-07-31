@@ -1,8 +1,3 @@
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-
-// const { default: inquirer } = require("inquirer");
-// let yourLicense = "";
 function renderLicenseLink(data) {
     let licenseType = `${data.license}`
     let yourLincense = "";
@@ -38,13 +33,6 @@ function renderLicenseLink(data) {
     return yourLincense
 };
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) { }
-// let yourLicense = inquirer.choices.value;
-// let yourLicense = "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
-
-// TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
     return `${renderLicenseLink(data)}
 # ${data.title}
@@ -74,18 +62,25 @@ ${data.usage}
 ## Credits
 
 ${data.contributers}
+
 ${data.attributions}
+
 ${data.tutorials}
 
 ## Tests
+
 ${data.tests}
 
 ## Questions
+
 ${data.profile}
-${data.email}
+
+Email me at ${data.email} for questions on this project.
 
 ## License
+
 ${data.license}
+
    `;
 }
 
