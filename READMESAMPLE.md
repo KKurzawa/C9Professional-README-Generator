@@ -17,7 +17,7 @@ This project is a command line application that generates a high-quality README 
 
 ## Installation
 
-Requires the user to node.js installed.
+Requires the user to have node.js installed.
 
 ## Usage
 
