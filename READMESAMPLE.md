@@ -1,9 +1,9 @@
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-# f
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator
 
 ## Description
 
-f
+This project is a command line application that generates a high-quality README file quickly. Answer all the questions prompted and you will recieve a well polished README.md file.
 
 ## Table of Contents
 
@@ -17,32 +17,32 @@ f
 
 ## Installation
 
-f
+Enter 'Node index.js
 
 ## Usage
 
-f
+Use this project to generate your README file quickly.
 
 ## Credits
 
-f
+Kris Kurzawa: https://github.com/KKurzawa
 
-f
+https://thirdparty.com
 
-f
+https://tutorials.com
 
 ## Tests
 
-f
+Try it out.
 
 ## Questions
 
-f
+https://github.com/KKurzawa
 
-Email me at f for questions on this project.
+Email me at kurzawa1@yahoo.com for questions on this project.
 
 ## License
 
-The Unlicense
+MIT
 
    
