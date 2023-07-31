@@ -10,7 +10,7 @@ This project is a command line application that generates a high-quality README 
 
 Enter 'Node index.js' in the appropriate folder of your command line.  Answer all the questions prompted and you will recieve a well polished README.md file.  This README file will contain a clickable table of contents that will take you to the clicked topic, a clicklable licensce badge that will show you the requirements of the license, clickable links to collaborators/attribitions, as well as clickable links to the users Github profile and email.  
 
-Walkthrough Video: 
+Walkthrough Video: https://watch.screencastify.com/v/svnNlR1l3k3xGV30vzpM
 
 Github Repository: https://github.com/KKurzawa/C9Professional-README-Generator
 
