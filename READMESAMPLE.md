@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 # f
 
 ## Description
@@ -43,6 +43,6 @@ Email me at f for questions on this project.
 
 ## License
 
-BSD 3-Clause "New" or "Revised"
+Boost Software 1.0
 
    
