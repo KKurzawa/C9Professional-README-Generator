@@ -1,4 +1,4 @@
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 # f
 
 ## Description
@@ -43,6 +43,6 @@ Email me at f for questions on this project.
 
 ## License
 
-GNU Lesser General Public v2.1
+Mozilla Public 2.0
 
    
