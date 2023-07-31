@@ -1,9 +1,9 @@
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
-# Bob
+[![License: CC BY 1.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/1.0/)
+# f
 
 ## Description
 
-Bob jumps and swims.
+f
 
 ## Table of Contents
 
@@ -17,25 +17,25 @@ Bob jumps and swims.
 
 ## Installation
 
-Eat a bananna.
+f
 
 ## Usage
 
-Bob picks up a banana.
+f
 
 ## Credits
 
-Dylan and Joe.
-Bob.
-Ziggle.
+f
+f
+f
 
 ## Tests
-Make bob jump.
+f
 
 ## Questions
-123
-666Bannana
+f
+f
 
 ## License
-BSD 2-Clause "Simplified"
+Creative Commons Zero v1.0 Universal
    
