@@ -21,7 +21,7 @@ Requires the user to have node.js installed.
 
 ## Usage
 
-Enter 'Node index.js' in the appropriate folder of your command line.  Answer all the questions prompted and you will recieve a well polished README.md file.
+Enter 'node index.js' in the appropriate folder of your command line.  Answer all questions prompted.
 
 ## Credits
 
