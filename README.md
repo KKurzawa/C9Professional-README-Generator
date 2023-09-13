@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# C9 README Generator
+# README Generator
 
 ## Description
 
@@ -12,7 +12,7 @@ Enter 'Node index.js' in the appropriate folder of your command line.  Answer al
 
 Walkthrough Video: https://watch.screencastify.com/v/svnNlR1l3k3xGV30vzpM
 
-Github Repository: https://github.com/KKurzawa/C9Professional-README-Generator
+Github Repository: https://github.com/KKurzawa/Professional-README-Generator
 
 ## Credits
 
